@@ -8,7 +8,9 @@ namespace GitConflictDemo
         {
             Console.WriteLine("Bonjour !");
             Console.WriteLine("Bienvenue dans notre application !");
+
             Console.WriteLine("Ceci est la branche principale !");
+
             Console.WriteLine("Appuyez sur une touche pour quitter.");
             Console.ReadKey();
         }
